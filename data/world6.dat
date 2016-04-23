@@ -1,0 +1,16 @@
+Earth 160 20 260 120
+Earth 160 240 260 220
+
+Earth 0 440 520 40
+Earth 0 20 40 460
+Earth 480 20 40 460
+Earth 0 0 520 40
+
+Exit 420 400
+Relict 200 200
+
+EyeStick 170 244 Red
+EyeStick 260 244 Blue
+EyeStick 350 244 Yellow
+
+Hero 80 320 

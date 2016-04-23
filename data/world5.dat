@@ -1,0 +1,13 @@
+Earth 0 120 400 40
+Earth 120 240 400 40
+Earth 0 360 400 40
+
+Earth 0 440 520 40
+Earth 0 20 40 460
+Earth 480 20 40 460
+Earth 0 0 520 40
+
+Exit 420 400
+Relict 200 200
+
+Hero 80 40 

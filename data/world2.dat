@@ -1,0 +1,23 @@
+Earth 380 20 40 120
+Earth 380 240 40 220
+
+Earth 0 440 520 40
+Earth 0 20 40 460
+Earth 480 20 40 460
+Earth 0 0 520 40
+
+Exit 420 400
+Relict 200 200
+Weed 400 244
+
+Weed 50 444
+Weed 90 444
+Weed 140 444
+Weed 170 444
+Weed 240 444
+Weed 250 444
+Weed 300 444
+
+EyeStick 190 444 Red
+
+Hero 80 80 
